@@ -12,7 +12,7 @@
 
 ## Formation
 En **3ème année de BUT Infonum**  IUT Bordeaux Montaigne 
-Bac sciences pataphysique mention ubuesque.
+Bac sciences pataphysique mention *ubuesque*.
 
 
 ## Expériences professionnelles
