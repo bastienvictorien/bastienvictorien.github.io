@@ -21,13 +21,13 @@ Bac sciences pataphysique mention *ubuesque*.
 **Agence Com'Parfaite, Bordeaux** - Mai 2022 à Juillet 2022
 - Gestion des réseaux sociaux et création de contenu.
 - Collaboration avec l'équipe de design pour la création de visuels.
-- [Voir une réalisation](https://exemple-url-realisation.com/realisation1)
+- [Voir une réalisation](https://bastienvictorien.github.io/realisation1.jpg)
 
 ### Stage - Chargé de Projet Digital
 **Studio Digital Bordelais, Bordeaux** - mai 2021 à Juillet 2021
 - Conception et mise en œuvre de stratégies digitales pour divers clients.
 - Gestion de projets de A à Z, de la conception à la livraison.
-- [Voir une réalisation](https://exemple-url-realisation.com/realisation2)
+- [Voir une réalisation](https://bastienvictorien.github.io/realisation2.jpg)
 
 ## Compétences
 
@@ -42,7 +42,7 @@ Bac sciences pataphysique mention *ubuesque*.
 
 ## Centres d'intérêt
 
-- Photographie: [Voir mon portfolio](https://exemple-url-portfolio.com)
+- Photographie: [Voir mon portfolio](https://bastienvictorien.github.io/portfolio.jpg)
 - Rédaction d'articles sur la communication digitale
 - Voyage et découverte de nouvelles cultures
 - Ballade aux Quinconces à 6h du matin après une nuit festive
