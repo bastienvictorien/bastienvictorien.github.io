@@ -8,7 +8,7 @@
 📍 Adresse: dernier pub avant la fin du monde, 33000 Bordeaux
 
 ## À propos de moi
-Étudiant passionné en Infonum avec une solide expérience en gestion de projets, création de contenu et utilisation de logiciels spécialisés. Ayant effectué plusieurs stages réussis dans le domaine, je suis à la recherche de nouvelles opportunités pour approfondir mes compétences.
+Étudiant passionné en Infonum avec une solide expérience en *gestion de projets*, en *création de contenus* et utilisation de logiciels spécialisés. Ayant effectué plusieurs stages réussis dans le domaine, je suis à la recherche de nouvelles opportunités pour approfondir mes compétences.
 
 ## Formation
 En **3ème année de BUT Infonum**  IUT Bordeaux Montaigne 
